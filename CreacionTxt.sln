@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreacionTxt", "CreacionTxt.csproj", "{C070EF96-B7DD-4FA7-A742-FA0DD8A4D4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C070EF96-B7DD-4FA7-A742-FA0DD8A4D4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C070EF96-B7DD-4FA7-A742-FA0DD8A4D4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C070EF96-B7DD-4FA7-A742-FA0DD8A4D4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C070EF96-B7DD-4FA7-A742-FA0DD8A4D4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3D77F2-7F41-4A70-9F75-96560F9B414D}
+	EndGlobalSection
+EndGlobal

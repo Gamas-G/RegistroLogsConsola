@@ -1,0 +1,8 @@
+C:\Users\Saday Nava\source\repos\CreacionTxt\bin\Debug\CreacionTxt.exe.config
+C:\Users\Saday Nava\source\repos\CreacionTxt\bin\Debug\CreacionTxt.exe
+C:\Users\Saday Nava\source\repos\CreacionTxt\bin\Debug\CreacionTxt.pdb
+C:\Users\Saday Nava\source\repos\CreacionTxt\obj\Debug\CreacionTxt.csproj.AssemblyReference.cache
+C:\Users\Saday Nava\source\repos\CreacionTxt\obj\Debug\CreacionTxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saday Nava\source\repos\CreacionTxt\obj\Debug\CreacionTxt.csproj.CoreCompileInputs.cache
+C:\Users\Saday Nava\source\repos\CreacionTxt\obj\Debug\CreacionTxt.exe
+C:\Users\Saday Nava\source\repos\CreacionTxt\obj\Debug\CreacionTxt.pdb
