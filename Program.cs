@@ -18,6 +18,9 @@ namespace CreacionTxt
             DateTime today = DateTime.Now;
             String nombre;
             bool entero = true;
+            //Puedes consultar tu nombre de maquina por codigo y concatenar en la cadena
+            //asi evitando dejar estatico tu nombre de red
+            //Investiga sttings o variable sinternas de visual studio
             string folderPath = @"C:\Users\Saday Nava\Downloads\Ejercicio";
             string doc = $"{folderPath}\\EscribeLineas.txt";
             /* 
